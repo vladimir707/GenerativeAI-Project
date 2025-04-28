@@ -84,7 +84,7 @@ Bonusaufgabe 			https://huggingface.co/vladimir707/my-fancy-gpt2
 
 ## Trainingsdetails
 * Optimizer & LR: **AdamW**, 3e‑4  
-* Batch‑Größe: 4  
+* Batch‑Größe: 32  
 * Epochen: 5  
 * Loss‑Funktion: Cross‑Entropy (language‑modeling)  
 * WandB‑Run: siehe Link oben (Train/Val‑Loss, Beispiele, Generierungen)
